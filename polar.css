@@ -1,0 +1,32 @@
+body {
+  font-family:sans-serif;
+  background-color: rgb(230, 255, 255);
+  border: 1px solid black;
+  margin:auto;
+  width:300px;
+  height:725px;
+  padding: 1em;
+
+}
+
+h3 {
+  color: #00997a;
+  font-size: 25px;
+}
+<link rel="stylesheet" href="polar.css"</link>
+
+p {
+  width:100px;
+  height:100px;
+  border: 2px solid black;
+}
+
+}
+ul {
+  border: 1px solid Black;
+  
+}
+li {
+  font: bold 12pt sans-serif;
+  text-align: left;
+  list-style: none;
